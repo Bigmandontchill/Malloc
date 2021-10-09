@@ -1,6 +1,7 @@
 Implmentation of malloc using c
 
 Run command: first command:gcc -o m main.c
+             
              second command:m 
              
              
